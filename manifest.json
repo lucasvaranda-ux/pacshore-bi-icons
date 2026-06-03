@@ -1,6 +1,6 @@
 {
   "name": "PacShore BI",
-  "short_name": "PacShore",
+  "short_name": "PacShore BI",
   "description": "PacShore BI dashboards",
   "start_url": "https://pacshore-bi.netlify.app/",
   "scope": "https://pacshore-bi.netlify.app/",
